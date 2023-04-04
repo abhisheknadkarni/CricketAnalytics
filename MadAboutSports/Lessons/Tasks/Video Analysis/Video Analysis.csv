@@ -1,0 +1,272 @@
+Ball_No,Batsman_Name,Batting_Style,Bowling_Type,Bowling_Side_of_Stumps,Ball_Pitching,Ball_Line,Ball_Length,Ball_Turn_Angle,Ball_Middled,Ball_Missed,Ball_Edged,Ball_Left,Shot_Aggressive,Shot_Attacking,Shot_Defensive,Shot_Type,Shot_Timing,Batsman_Head_Position,Batsman_Footwork
+1,Orange1,RHB,Pace,Round,Outside Leg Stump,Leg Stump,Good,NA,1,0,0,0,1,0,0,BackFoot Pull,1,1,1
+2,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+3,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,0,1,0,0,0,1,0,0,FrontFoot On Drive,1,1,1
+4,Orange1,RHB,Spin,Over,Middle-Leg Stump,Outside Off Stump,Full,17,0,1,0,0,0,0,0,None,0,0,0
+5,Orange1,RHB,Spin,Over,Outside Off Stump,Leg Stump,Full,20,1,0,0,0,1,0,0,BackFoot On Drive,1,1,1
+6,Orange1,RHB,Pace,Round,Outside Off Stump,Middle Stump,Good,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+7,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+8,Orange1,RHB,Pace,Round,Outside Leg Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Backfoot Off Drive,1,1,1
+9,Orange1,RHB,Pace,Over,Off Stump,Outside Leg Stump,Good,NA,0,1,0,0,0,0,0,None,0,1,0
+10,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+11,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,20,0,1,0,0,0,0,0,None,0,0,0
+12,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,19,0,1,0,0,0,0,0,None,0,0,0
+13,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Good,NA,0,0,0,1,0,0,1,None,1,1,1
+14,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+15,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Cut,1,1,1
+16,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+17,Red,LHB,Spin,Round,Leg Stump,Middle Stump,Full,6,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+18,Red,LHB,Spin,Over,Middle Stump,Leg Stump,Full,8,0,0,1,0,0,0,0,None,0,0,0
+19,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+20,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+21,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Cut,1,1,1
+22,Red,LHB,Pace,Round,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+23,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cut,1,1,1
+24,Red,LHB,Spin,Round,Leg Stump,Middle Stump,Full,6,1,0,0,0,0,0,1,BackFoot Defence,1,0,1
+25,Red,LHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+26,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,0,0,0,1,BackFoot On Drive,0,0,0
+27,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+28,Orange1,RHB,Pace,Over,Off Stump,Middle Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+29,Orange1,RHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Full,NA,1,0,0,0,1,0,0,Leg Glance,1,1,1
+30,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+31,Orange1,RHB,Pace,Round,Outside Off Stump,Outside Leg Stump,Short,NA,0,1,0,0,0,0,0,None,0,0,0
+32,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,11,0,1,0,0,0,0,0,None,0,0,0
+33,Orange1,RHB,Spin,Over,Outside Off Stump,Leg Stump,Full,10,0,1,0,0,0,0,0,None,0,0,0
+34,Orange1,RHB,Pace,Over,Outside Off Stump,Middle Stump,Full,NA,1,0,0,0,1,0,0,Backfoot Flick,1,1,1
+35,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,1,0,1,0,0,None,0,0,0
+36,Orange1,RHB,Pace,Round,Outside Leg Stump,Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+37,Orange1,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,1
+38,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,1,0,1,0,0,None,0,0,0
+39,Orange1,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot On Drive,1,1,1
+40,Orange1,RHB,Spin,Over,Middle-Off Stump,Off Stump,Full,11,1,0,0,0,0,0,1,BackFoot Defence,1,1,0
+41,Orange1,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Yorker,NA,0,1,0,0,0,0,0,None,0,0,1
+42,Red,LHB,Pace,Round,Off Stump,Leg Stump,Full,NA,1,0,0,0,1,0,0,FrontFoot Straight Drive,1,1,1
+43,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+44,Red,LHB,Pace,Round,Outside Off Stump,Leg Stump,Full,NA,0,0,1,0,1,0,0,None,0,0,0
+45,Red,LHB,Pace,Round,Outside Off Stump,Outside Leg Stump,Full,NA,0,0,1,0,1,0,0,None,0,0,0
+46,Red,LHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,1,0,0,FrontFoot On Drive,1,0,1
+47,Red,LHB,Spin,Over,Off Stump,Middle Stump,Full,9,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+48,Red,LHB,Spin,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+49,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,0,1,0,1,0,0,None,0,0,0
+50,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+51,Red,LHB,Pace,Round,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,0
+52,Red,LHB,Pace,Round,Outside Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+53,Red,LHB,Spin,Round,Outside Off Stump,Outside Off Stump,Full,14,1,0,0,0,1,0,0,Square Cut,1,0,0
+54,Red,LHB,Spin,Over,Outside Leg Stump,Outside Leg Stump,Full,5,0,1,0,0,0,0,0,None,0,0,1
+55,Red,LHB,Pace,Round,Leg Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot On Drive,1,1,1
+56,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Square Cut,1,1,1
+57,Orange1,RHB,Pace,Round,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+58,Orange1,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+59,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,1,0,1,0,0,None,0,0,0
+60,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Straight Drive,1,1,1
+61,Orange1,RHB,Spin,Over,Middle Stump,Outside Off Stump,Full,6,1,0,0,0,1,0,0,Sweep,1,1,1
+62,Orange1,RHB,Spin,Over,Outside Off Stump,Off Stump,Full,9,1,0,0,0,0,0,1,BackFoot Defence,1,1,0
+63,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,14,0,1,0,0,0,0,0,None,0,0,1
+64,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,10,0,1,0,0,0,0,0,None,0,0,0
+65,Orange1,RHB,Pace,Over,Leg Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,0,1
+66,Orange1,RHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Yorker,NA,0,0,1,0,1,0,0,None,0,0,0
+67,Orange1,RHB,Pace,Over,Outside Off Stump,Middle-Leg Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+68,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,0,1,0,0,1,None,1,1,1
+69,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,Square Cut,1,1,1
+70,Orange1,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,0,0,0,0,0,1,0,FrontFoot Lofted On Drive,0,1,1
+71,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,0,1,0,0,FrontFoot On Drive,0,0,0
+72,Red,LHB,Pace,Round,Middle Stump,Outside Leg Stump,Full,NA,0,0,1,0,1,0,0,None,0,0,0
+73,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+74,Red,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Good,NA,0,0,1,0,1,0,0,None,0,0,0
+75,Red,LHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Good,NA,0,1,0,0,0,0,0,None,0,1,1
+76,Red,LHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,0,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+77,Red,LHB,Spin,Round,Outside Leg Stump,Leg Stump,Full,0,0,0,0,0,0,1,0,FrontFoot Lofted On Drive,0,0,0
+78,Red,LHB,Spin,Round,Outside Leg Stump,Outside Leg Stump,Yorker,3,1,0,0,0,1,0,0,FrontFoot On Drive,1,1,1
+79,Orange1,RHB,Pace,Over,Outside Off Stump,Middle Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+80,Orange1,RHB,Pace,Round,Leg Stump,Outside Leg Stump,Yorker,NA,0,0,1,0,0,0,0,None,0,0,1
+81,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Square Cut,1,1,1
+82,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,0,1,0,0,1,None,1,1,1
+83,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,4,0,1,0,0,0,0,0,None,0,0,0
+84,Orange1,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,45,0,1,0,0,0,0,0,None,0,0,0
+85,Orange1,RHB,Spin,Over,Outside Off Stump,Off Stump,Full,15,1,0,0,0,1,0,0,FrontFoot Off Drive,1,1,1
+86,Orange1,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+87,Orange1,RHB,Pace,Round,Leg Stump,Leg Stump,Full,NA,0,0,0,0,0,0,1,FrontFoot Defence,0,1,1
+88,Orange1,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+89,Blue1,LHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+90,Blue1,LHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+91,Blue1,LHB,Pace,Round,Off Stump,Outside Leg Stump,Good,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+92,Blue1,LHB,Spin,Round,Outside Off Stump,Outside Off Stump,Full,28,1,0,0,0,0,1,0,BackFoot Pull,1,0,0
+93,Blue1,LHB,Spin,Over,Off Stump,Leg Stump,Full,32,0,1,0,0,0,0,0,None,0,0,0
+94,Blue1,LHB,Spin,Round,Leg Stump,Outside Leg Stump,Yorker,0,1,0,0,0,0,0,1,None,1,0,0
+95,Blue1,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,1,None,0,0,0
+96,Blue1,LHB,Pace,Over,Outside Leg Stump,Off Stump,Full,NA,0,1,0,0,0,0,1,None,0,0,0
+97,Blue1,LHB,Pace,Round,Outside Off Stump,Off Stump,Good,NA,0,0,1,0,1,0,0,None,0,0,0
+98,Blue1,LHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,1,0,BackFoot Flick,1,1,1
+99,Blue1,LHB,Spin,Round,Off Stump,Outside Off Stump,Full,14,0,1,0,0,0,0,1,None,0,0,0
+100,Blue1,LHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,Sweep,1,1,1
+101,Blue1,LHB,Pace,Round,Off Stump,Off Stump,Full,NA,1,0,0,0,1,0,0,FrontFoot Off Drive,1,1,1
+102,Maroon,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+103,Maroon,RHB,Pace,Round,Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,FrontFoot Straight Drive,1,1,1
+104,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+105,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,1,1
+106,Maroon,RHB,Spin,Over,Off Stump,Outside Off Stump,Full,15,0,1,0,0,0,0,0,None,0,0,0
+107,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+108,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot On Drive,1,0,1
+109,Maroon,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Yorker,NA,0,1,0,0,0,0,0,None,0,0,0
+110,Maroon,RHB,Pace,Over,Off Stump,Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+111,Maroon,RHB,Pace,Over,Outside Off Stump,Off Stump,Good,NA,1,0,0,0,1,0,0,BackFoot On Drive,1,1,1
+112,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,0,1,0,0,1,None,1,1,1
+113,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Square Cut,1,1,1
+114,Maroon,RHB,Spin,Over,Middle Stump,Outside Leg Stump,Full,0,1,0,0,0,0,1,0,FrontFoot On Drive,1,1,1
+115,Maroon,RHB,Spin,Over,NA,Outside Off Stump,Full Toss,0,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+116,Maroon,RHB,Pace,Over,Outside Off Stump,Middle Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot On Drive,1,1,1
+117,Blue1,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,FrontFoot Off Drive,1,1,1
+118,Blue1,LHB,Pace,Over,Outside Leg Stump,Off Stump,Good,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+119,Blue1,LHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+120,Blue1,LHB,Pace,Over,Middle Stump,Outside Off Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+121,Blue1,LHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot Off Drive,1,1,1
+122,Blue1,LHB,Spin,Round,NA,Outside Leg Stump,Full Toss,0,1,0,0,0,0,1,0,FrontFoot On Drive,1,1,1
+123,Blue1,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+124,Blue1,LHB,Pace,Over,Outside Leg Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+125,Blue1,LHB,Pace,Round,Off Stump,Outside Leg Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+126,Blue1,LHB,Pace,Over,Outside Leg Stump,Outside Off Stump,Good,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+127,Blue1,LHB,Spin,Over,Leg Stump,Outside Leg Stump,Full,16,0,1,0,0,0,0,0,None,0,0,0
+128,Blue1,LHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+129,Blue1,LHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+130,Maroon,RHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+131,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+132,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+133,Maroon,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Yorker,NA,0,0,1,0,0,0,0,Paddle Sweep,0,1,1
+134,Maroon,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Good,39,1,0,0,0,0,1,0,BackFoot Pull,1,1,1
+135,Maroon,RHB,Spin,Over,Outside Leg Stump,Outside Leg Stump,Full,15,1,0,0,0,0,1,0,BackFoot Lofted On Drive,1,1,1
+136,Maroon,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+137,Maroon,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,1,0,0,BackFoot On Drive,1,1,1
+138,Maroon,RHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,1,0,0,BackFoot Flick,1,0,1
+139,Maroon,RHB,Pace,Over,Leg Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,1,0,BackFoot Lofted On Drive,1,0,1
+140,Maroon,RHB,Spin,Over,Outside Off Stump,Middle Stump,Full,5,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+141,Maroon,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,0,1,0,0,0,0,1,0,FrontFoot On Drive,1,1,1
+142,Maroon,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,0,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+143,Blue1,LHB,Pace,Over,Middle Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+144,Blue1,LHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Full,NA,0,0,1,0,0,0,0,None,0,0,1
+145,Blue1,LHB,Pace,Over,Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+146,Blue1,LHB,Pace,Round,NA,Leg Stump,Full Toss,NA,1,0,0,0,0,1,0,FrontFoot Straight Drive,1,1,1
+147,Blue1,LHB,Spin,Round,Outside Off Stump,Outside Off Stump,Full,33,0,1,0,0,0,0,0,None,0,0,0
+148,Blue1,LHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+149,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+150,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,0,1,BackFoot On Drive,1,1,1
+151,Orange2,RHB,Pace,Round,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,FrontFoot Straight Drive,1,0,1
+152,Orange2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+153,Orange2,RHB,Pace,Over,NA,Outside Off Stump,Full Toss,NA,1,0,0,0,1,0,0,FrontFoot On Drive,1,1,1
+154,Orange2,RHB,Spin,Over,NA,Off Stump,Full Toss,0,1,0,0,0,1,0,0,FrontFoot Straight Drive,1,1,1
+155,Orange2,RHB,Spin,Over,Outside Off Stump,Leg Stump,Full,21,1,0,0,0,1,0,0,BackFoot Punch,1,1,1
+156,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+157,Blue2,RHB,Pace,Over,Outside Off Stump,Middle Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+158,Blue2,RHB,Pace,Round,Leg Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+159,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Flick,1,1,1
+160,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+161,Blue2,RHB,Spin,Over,Leg Stump,Outside Off Stump,Full,18,0,1,0,0,0,0,0,None,0,0,0
+162,Blue2,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,1,0,0,BackFoot Flick,1,0,1
+163,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,0,1,0,0,1,None,1,1,1
+164,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+165,Orange2,RHB,Pace,Round,Leg Stump,Leg Stump,Yorker,NA,1,0,0,0,1,0,0,FrontFoot On Drive,1,1,1
+166,Orange2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,0,0
+167,Orange2,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,15,1,0,0,0,1,0,0,Sweep,1,1,1
+168,Orange2,RHB,Spin,Over,Middle Stump,Off Stump,Yorker,10,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+169,Orange2,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Good,14,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+170,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,1,0,0,0,1,None,1,0,1
+171,Blue2,RHB,Pace,Over,Outside Off Stump,Middle Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+172,Blue2,RHB,Pace,Round,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+173,Blue2,RHB,Pace,Over,Outside Off Stump,Middle Stump,Good,NA,0,0,1,0,0,0,0,None,0,0,0
+174,Blue2,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,19,1,0,0,0,1,0,0,Sweep,1,1,1
+175,Blue2,RHB,Pace,Over,Off Stump,Middle Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot Straight Drive,1,1,1
+176,Blue2,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,15,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+177,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,Square Cut,1,1,0
+178,Orange2,RHB,Pace,Over,Outside Off Stump,Middle-Leg Stump,Good,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+179,Orange2,RHB,Pace,Round,Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+180,Orange2,RHB,Pace,Over,Middle Stump,Outside Leg Stump,Full,NA,1,0,0,0,1,0,0,FrontFoot Flick,1,1,1
+181,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,0,0,1,0,0,0,0,None,0,0,0
+182,Orange2,RHB,Pace,Over,Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,1,0,0,FrontFoot Straight Drive,1,1,1
+183,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+184,Blue2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+185,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+186,Blue2,RHB,Pace,Round,NA,Outside Off Stump,Full Toss,NA,1,0,0,0,1,0,0,FrontFoot Off Drive,1,1,1
+187,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,Square Drive,1,1,1
+188,Blue2,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,5,1,0,0,0,0,1,0,FrontFoot Lofted Off Drive,1,1,1
+189,Blue2,RHB,Spin,Over,Leg Stump,Off Stump,Full,11,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+190,Blue2,RHB,Spin,Over,Outside Off Stump,Off Stump,Full,9,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+191,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+192,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+193,Orange2,RHB,Pace,Round,Outside Leg Stump,Outside Leg Stump,Good,NA,0,0,0,1,0,0,0,None,0,0,0
+194,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+195,Orange2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+196,Orange2,RHB,Spin,Over,Outside Off Stump,Off Stump,Full,0,0,1,0,0,0,0,0,None,0,0,0
+197,Orange2,RHB,Spin,Over,Middle Stump,Outside Leg Stump,Full,0,0,1,0,0,0,0,0,None,0,0,0
+198,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Drive,0,0,0
+199,Blue2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+200,Blue2,RHB,Pace,Over,Outside Leg Stump,Middle Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Flick,1,1,1
+201,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+202,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+203,Blue2,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,9,0,0,1,0,0,0,0,None,0,0,0
+204,Blue2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+205,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+206,Orange2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+207,Orange2,RHB,Pace,Round,NA,Leg Stump,Full Toss,NA,1,0,0,0,1,0,0,FrontFoot Flick,1,1,1
+208,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,1,0,0,FrontFoot Flick,1,1,1
+209,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,FrontFoot Flick,1,1,1
+210,Orange2,RHB,Spin,Over,Outside Leg Stump,Outside Leg Stump,Full,0,0,1,0,0,0,0,0,None,0,0,0
+211,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,BackFoot Pull,1,1,1
+212,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,0,1,0,0,1,None,1,1,1
+213,Blue2,RHB,Pace,Over,Outside Off Stump,Leg Stump,Good,NA,1,0,0,0,1,0,0,BackFoot On Drive,1,1,1
+214,Blue2,RHB,Pace,Round,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+215,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+216,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,1,0,0,0,0,None,0,0,1
+217,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,0,0,1,0,0,0,0,None,0,0,0
+218,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+219,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Lofted Off Drive,1,1,1
+220,Orange2,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+221,Orange2,RHB,Pace,Round,Outside Leg Stump,Outside Off Stump,Short,NA,1,0,0,0,1,0,0,BackFoot Pull,1,1,1
+222,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+223,Orange2,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,11,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+224,Orange2,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,15,1,0,0,0,1,0,0,BackFoot Off Drive,1,1,1
+225,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,1,0,0,BackFoot Defence,1,1,1
+226,Orange2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Sweep,1,1,1
+227,Blue2,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Straight Drive,1,1,1
+228,Blue2,RHB,Pace,Over,Middle Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,1,0,Lofted Straight Drive,1,1,1
+229,Blue2,RHB,Pace,Round,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,FrontFoot Off Drive,1,1,1
+230,Blue2,RHB,Pace,Over,Outside Off Stump,Middle Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+231,Blue2,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,1,0,FrontFoot Lofted Off Drive,1,1,1
+232,Blue2,RHB,Pace,Over,Middle Stump,Outside Leg Stump,Good,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+233,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,0,0,0,1,0,0,1,None,1,1,1
+234,Blue3,RHB,Pace,Over,Middle Stump,Middle Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+235,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,30,0,1,0,0,0,0,0,None,0,0,0
+236,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+237,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+238,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,0,0,1,0,0,1,None,1,1,1
+239,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+240,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+241,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot Lofted Off Drive,1,1,1
+242,Blue3,RHB,Pace,Over,Outside Off Stump,Off Stump,Good,NA,0,0,1,0,0,0,0,None,0,0,0
+243,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Flick,1,1,1
+244,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+245,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,0,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+246,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,BackFoot On Drive,1,1,1
+247,Blue3,RHB,Spin,Over,Middle Stump,Off Stump,Full,9,1,0,0,0,0,0,1,BackFoot Defence,1,1,1
+248,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+249,Blue3,RHB,Pace,Over,Middle Stump,Outside Leg Stump,Full,NA,0,1,0,0,0,0,0,None,0,0,0
+250,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Good,NA,0,1,0,0,0,0,0,None,0,0,0
+251,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,36,0,1,0,0,0,0,0,None,0,0,0
+252,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Yorker,NA,1,0,0,0,1,0,0,Cut,1,1,1
+253,Blue3,RHB,Pace,Over,Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,1,0,0,BackFoot On Drive,1,1,1
+254,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,31,0,1,0,0,0,0,0,None,0,0,0
+255,Blue3,RHB,Pace,Over,NA,Off Stump,Full Toss,NA,1,0,0,0,1,0,0,FrontFoot Off Drive,1,1,0
+256,Blue3,RHB,Pace,Over,Off Stump,Outside Leg Stump,Full,NA,1,0,0,0,0,0,1,BackFoot Defence,1,1,0
+257,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,0,0,1,0,0,0,0,None,0,0,0
+258,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Square Cut,1,1,1
+259,Blue3,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,1,0,0,BackFoot On Drive,1,0,1
+260,Blue3,RHB,Pace,Over,NA,Leg Stump,Full Toss,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+261,Blue3,RHB,Pace,Over,Leg Stump,Outside Leg Stump,Full,NA,0,0,1,0,0,0,0,None,0,0,0
+262,Blue3,RHB,Pace,Over,Outside Off Stump,Off Stump,Full,NA,1,0,0,0,1,0,0,Square Drive,1,0,0
+263,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,Cover Drive,1,1,1
+264,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,36,0,0,0,1,0,0,1,None,1,1,1
+265,Blue3,RHB,Spin,Over,Off Stump,Outside Off Stump,Full,11,0,0,1,0,0,0,0,None,0,0,0
+266,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,12,1,0,0,0,1,0,0,BackFoot Flick,1,0,0
+267,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Leg Stump,Full,45,1,0,0,0,1,0,0,BackFoot Flick,1,0,1
+268,Blue3,RHB,Pace,Over,Outside Off Stump,Outside Off Stump,Full,NA,1,0,0,0,1,0,0,BackFoot Off Drive,1,1,1
+269,Blue3,RHB,Pace,Over,Outside Leg Stump,Outside Leg Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
+270,Blue3,RHB,Spin,Over,Outside Off Stump,Outside Off Stump,Full,20,1,0,0,0,0,0,1,FrontFoot Defence,1,1,1
+271,Blue3,RHB,Pace,Over,Off Stump,Middle-Leg Stump,Yorker,NA,1,0,0,0,0,1,0,FrontFoot Lofted On Drive,1,1,1
