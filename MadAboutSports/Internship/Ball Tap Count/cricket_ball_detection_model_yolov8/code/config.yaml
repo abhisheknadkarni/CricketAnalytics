@@ -1,0 +1,7 @@
+path: ../data
+train: images/train
+val: images/train
+
+#Classes
+names:
+ 0: cricketball
